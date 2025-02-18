@@ -7,7 +7,7 @@
 				"heroImage": "https://bjjfanatics.com.br/cdn/shop/articles/jiu-jitsu_299edcd9-1f48-4b7c-9d68-5d1326027cf9_1024x1024.jpg?v=1543697430"
 			},
 			"about": {
-				"title": "Sobre a Clone",
+				"title": "Sobre a Bjj Club",
 				"description": "A é uma academia de Brazilian Jiu-Jitsu que une técnica e tradição. Nosso símbolo, o Yin e Yang, representa o equilíbrio perfeito entre força e flexibilidade, guiando cada treino e cada conquista."
 			},
 			"statistics": [
@@ -35,7 +35,7 @@
 					"id": 1,
 					"name": "Aula Gi",
 					"description": "Treinamento tradicional com quimono, focado em técnicas clássicas.",
-					"image": "https://images.unsplash.com/photo-1577459267055-32b8ee70eb57?auto=format&fit=crop&w=800&q=80"
+					"image": "https://wallpapers.com/images/hd/brazilian-jiu-jitsu-sports-practice-bf8v9h8cfnatcnso.jpg"
 				},
 				{
 					"id": 2,
@@ -47,7 +47,7 @@
 					"id": 3,
 					"name": "Aula Kids",
 					"description": "Aulas especializadas para crianças, enfatizando disciplina e respeito.",
-					"image": "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?auto=format&fit=crop&w=800&q=80"
+					"image": "https://media.istockphoto.com/id/187513881/photo/martial-arts.jpg?s=612x612&w=0&k=20&c=rlAJzHfFh0Noc_2TBJn2N9VXQ7lh_CsRusc2iZNoRLE="
 				}
 			]
 		},
