@@ -1,0 +1,161 @@
+{
+	"pages": {
+		"home": {
+			"hero": {
+				"title": "Brazilian Jiu-Jitsu",
+				"subtitle": "Equilíbrio, Força e Disciplina",
+				"heroImage": "https://bjjfanatics.com.br/cdn/shop/articles/jiu-jitsu_299edcd9-1f48-4b7c-9d68-5d1326027cf9_1024x1024.jpg?v=1543697430"
+			},
+			"about": {
+				"title": "Sobre a Clone",
+				"description": "A é uma academia de Brazilian Jiu-Jitsu que une técnica e tradição. Nosso símbolo, o Yin e Yang, representa o equilíbrio perfeito entre força e flexibilidade, guiando cada treino e cada conquista."
+			},
+			"statistics": [
+				{ "id": 1, "label": "Alunos", "value": "500+" },
+				{ "id": 2, "label": "Instrutores", "value": "20+" },
+				{ "id": 3, "label": "Anos de Experiência", "value": "15+" }
+			],
+			"testimonials": [
+				{
+					"id": 1,
+					"name": "João Silva",
+					"testimonial": "A transformou minha vida. Aqui, aprendi disciplina e técnica com os melhores instrutores!"
+				},
+				{
+					"id": 2,
+					"name": "Mariana Costa",
+					"testimonial": "Ambiente acolhedor e treinos desafiadores. Recomendo para todos que buscam superação."
+				}
+			]
+		},
+		"classes": {
+			"filters": ["Gi", "No-Gi", "Kids", "Adults"],
+			"classes": [
+				{
+					"id": 1,
+					"name": "Aula Gi",
+					"description": "Treinamento tradicional com quimono, focado em técnicas clássicas.",
+					"image": "https://images.unsplash.com/photo-1577459267055-32b8ee70eb57?auto=format&fit=crop&w=800&q=80"
+				},
+				{
+					"id": 2,
+					"name": "Aula No-Gi",
+					"description": "Aula sem quimono para treinos mais dinâmicos e rápidos.",
+					"image": "https://images.unsplash.com/photo-1574680178050-55c6a6a96e0a?auto=format&fit=crop&w=800&q=80"
+				},
+				{
+					"id": 3,
+					"name": "Aula Kids",
+					"description": "Aulas especializadas para crianças, enfatizando disciplina e respeito.",
+					"image": "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?auto=format&fit=crop&w=800&q=80"
+				}
+			]
+		},
+		"instructors": {
+			"filters": ["Faixa Preta", "Faixa Marrom", "Novos Instrutores"],
+			"instructors": [
+				{
+					"id": 1,
+					"name": "Carlos Silva",
+					"bio": "Faixa Preta com mais de 15 anos de experiência no Brazilian Jiu-Jitsu, especializado em técnicas de solo e submissão.",
+					"image": "https://images.unsplash.com/photo-1594381898411-846e7d193883?auto=format&fit=crop&w=400&q=80",
+					"specialty": "Gi e No-Gi"
+				},
+				{
+					"id": 2,
+					"name": "Ana Souza",
+					"bio": "Instrutora dedicada, com 10 anos de experiência e paixão pelo ensino das técnicas de defesa pessoal.",
+					"image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=400&q=80",
+					"specialty": "Defesa Pessoal e Submissões"
+				}
+			]
+		},
+		"dojos": {
+			"dojos": [
+				{
+					"id": 1,
+					"name": "Centro",
+					"address": "Rua Central, 123 - Centro",
+					"mapLink": "https://www.google.com/maps",
+					"images": [
+						"https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=800&q=80",
+						"https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=800&q=80"
+					],
+					"description": "Unidade localizada no coração da cidade, com estrutura completa e ambiente acolhedor."
+				},
+				{
+					"id": 2,
+					"name": "Bairro",
+					"address": "Avenida dos Lutadores, 456 - Bairro Nobre",
+					"mapLink": "https://www.google.com/maps",
+					"images": [
+						"https://images.unsplash.com/photo-1570829460005-c840387bb1ca?auto=format&fit=crop&w=800&q=80",
+						"https://images.unsplash.com/photo-1571388208497-71bedc66e932?auto=format&fit=crop&w=800&q=80"
+					],
+					"description": "Academia moderna equipada com tecnologia de ponta para um treinamento eficiente."
+				}
+			]
+		},
+		"schedule": {
+			"days": [
+				"Segunda-feira",
+				"Terça-feira",
+				"Quarta-feira",
+				"Quinta-feira",
+				"Sexta-feira",
+				"Sábado"
+			],
+			"classes": [
+				{
+					"id": 1,
+					"day": "Segunda-feira",
+					"time": "18:00 - 19:30",
+					"class": "Aula Gi"
+				},
+				{
+					"id": 2,
+					"day": "Terça-feira",
+					"time": "19:30 - 21:00",
+					"class": "Aula No-Gi"
+				},
+				{
+					"id": 3,
+					"day": "Quarta-feira",
+					"time": "18:00 - 19:30",
+					"class": "Aula Kids"
+				},
+				{
+					"id": 4,
+					"day": "Quinta-feira",
+					"time": "19:30 - 21:00",
+					"class": "Aula Gi"
+				},
+				{
+					"id": 5,
+					"day": "Sexta-feira",
+					"time": "18:00 - 19:30",
+					"class": "Aula No-Gi"
+				},
+				{
+					"id": 6,
+					"day": "Sábado",
+					"time": "10:00 - 11:30",
+					"class": "Aula Aberta (Todos os níveis)"
+				}
+			]
+		},
+		"contact": {
+			"address": "Rua Central, 123 - Centro, Cidade Exemplo",
+			"phone": "+351 11 1234-5678",
+			"email": "contato@academiabjj.com",
+			"social": {
+				"facebook": "https://facebook.com/",
+				"instagram": "https://instagram.com/",
+				"youtube": "https://youtube.com/"
+			}
+		},
+		"privacyPolicy": {
+			"content": "Esta Política de Privacidade descreve como a coleta, utiliza e protege as informações dos usuários. Ao acessar e utilizar nosso site, você concorda com os termos aqui descritos. [Inserir aqui o conteúdo completo da política de privacidade.]"
+		}
+	}
+}
